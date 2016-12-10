@@ -16,7 +16,7 @@ The following functions will be included within the API; the pending functions a
 - Scheduling Flights  **(Spring 2017)**  
 
 ![Airplane](http://www.aerocompinc.com/airplanes/CA12/ca12-010_small.jpg)  
-Image Source:http://www.aerocompinc.com/airplanes/CA12/ca12-010_small.jpg 
+Image Source: http://www.aerocompinc.com/airplanes/CA12/ca12-010_small.jpg 
 
 <div class="home">
 
