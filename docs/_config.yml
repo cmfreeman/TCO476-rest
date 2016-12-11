@@ -14,12 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Airline API 
-email: rbwatson@docsbydesign.com
+email: watson_rb@mercer.edu
 description: > # this means to ignore newlines until "baseurl:"
   This is the documentation for the Airline API. The purpose of this documentation is to provide 
   information on API use and give an overview of each individual resource within the API.
 baseurl: "/TCO476-rest" # the subpath of your site, e.g. /blog
-url: "http://rbwatson.github.io/TCO476-rest" # the base hostname & protocol for your site
+url: "http://rbwatson.github.io" # the base hostname & protocol for your site
 
 github_username:  rbwatson
 include: ['pages']
