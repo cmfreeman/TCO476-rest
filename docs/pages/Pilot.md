@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Airline Resource"
+permalink: /airlineresource/
+--- 
 # Overview  
 The Pilot Resource allows the user to receive information regarding a specific pilot and add new pilots to the API.  
 
