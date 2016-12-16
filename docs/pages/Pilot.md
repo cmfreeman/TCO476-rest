@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Pilor Resource"
+title: "Pilot Resource"
 permalink: /pilotresource/
 --- 
 # Overview  
